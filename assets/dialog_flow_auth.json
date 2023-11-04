@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rushchat-kprk",
+  "private_key_id": "86d6b20cd89b50f1a5614c61ba7c9bb69f125489",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDnwqokcfCH+VzL\n8uBNR8cjK9IXC5HqU7gPYilXa7yEuN1e99NWaeauTQ98eNeVb9EDa88Lz9eZC+gw\nMo1pwP8K2EmUwkb8f+kDWAd2hjN4wmX6W8HHeQXrK+ndJjtGXj/WFHz3qTBOnHgc\nCezttleLo6YSjxfCGcnv8GKEXYfTKw+MI4s1dgMSeuaXrJMxljbuy3do9OINtsqs\ndk1ue0mNLVlQPhwS3DGSx5OJ5KHrdm8bjDAOtVpSlQpKPmyfNR7HMG7jNww5jEwR\ngym3cwKUsZ6NoF5GED429Rx9iQK9Fy6RV9rFUo+Ywlfg8q102wIfiDmn8Un9wF6m\nyXVeDo7fAgMBAAECggEAJdyY9CRDEcusm8r9VtKzlyzZARfMSjZMGwND0rrQjPQw\nggvFlFfvrij7ry+EtK6UPFVX+UuGosOdtoYDsTOs1sY32xwUAbsZw4iVi4joDsHf\nbBOiaCZ+z4kYhx7wTxIlpqEpO0KCGE2al6YNdVY1HiRphJ2o2XZiFZc1WP94qYgP\nRXxJ7grdaZ/Eq4Vzvn1Xqv7uZqjJ1tZ6Q97BcxKAAjcbVzEFUvy0xTD3UrKYNuXA\n61Gh5kt83RZw8zAnaDm5bt1Cmg307aQCyeC8+JAikN3+NZycJMJpjA1IhhGWGgps\nYfvjZXmfvLkWMF4KC0dC6ZnUhUPPx7+EoyFVP3rggQKBgQD3IykRp0rzEWIp3slC\nJZ55D8nOtUF5OYISgrd3rVNcS1iayBBB3RW7hdFvr++geZDuzhceQFjOI0EuPFQ6\nU5Ogcn/rBcuj2/fTYE9FUmg6OvOIofR+LazNx2xncCug3/x7YCpdt77Qw/hBrNqg\nn/E0gfmozw3YvMo4hjRc2rbQXwKBgQDwElYmh4mzwcz4FejelmuuUjGmdtHS7f99\n31W3QrGE3quqEbeBhmnTLF/fc24OQuB47KRAipPNLCDSP3SQwfAYnM/BWAIkJV4K\nWNDt6nkpz4BYqjI8ST+mRYDHbl4t4PccV3bWYv9l+IEW5eN17HIyf37ORYTQj3cX\nFXoCAW7RgQKBgD0w/IM9e+ZRYI/jdMunCuUIzrwazxpX7efta8X7KY/JrCeu76+P\nMUlcKe5QjrGaSBOI/dpkrlhkDEiJcYV7mir5Dsk/hxuMZIF28EnGzL3WSOSEzUfM\nwWO2RBYchQDxVM+rkPHhhCKm0zpXtU5eK9gHcqykj9YhcKSsPhzbnrZbAoGBALiY\n0Oe1hpvTJGGKr1IghdI333epm7O+T5uhFE7jGI8bjRIrp1gQW+UGFP5DytdqcyJo\ni/AY3oeALAiexGnexliWk2WO366dkQ8Rti2LAvm0VXNYA2K5zBh1Dw3Kft52Qmzn\nkDhPTSVCjThnMpzlX/YWdRH1AKhB+Iemevd51JWBAoGBAKHdF42Q7VJeLHiFZm/x\ns/gHGqzUKEixVSTnQ//NtXZJ64NtqFTlKmc6Zz8hnL/X/OAwIOc+kNZuJ9Lxtzdm\nnRTy3VQYExsZ0a/7ltwnGbJBWH9VIsJxp/w8X4X4GiiMpJdXSaTKiz15oj4rbXNE\nFWFZEhY3y1cRE/PqIayG4EGh\n-----END PRIVATE KEY-----\n",
+  "client_email": "multibot@rushchat-kprk.iam.gserviceaccount.com",
+  "client_id": "117605912641478308034",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/multibot%40rushchat-kprk.iam.gserviceaccount.com"
+}

@@ -1,0 +1,59 @@
+name: multiTool
+description: A new Flutter project.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.1 <3.0.0"
+
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
+dependencies:
+  flutter:
+    sdk: flutter
+  math_expressions: ^2.3.1
+  auto_size_text: ^3.0.0
+  google_ml_kit: ^0.7.3
+  image_picker: ^0.8.4+9
+  dialog_flowtter: ^0.3.1
+  animated_splash_screen:
+
+  cupertino_icons: ^1.0.2
+  get: ^4.6.5
+  camera: ^0.10.0
+  google_fonts: ^3.0.1
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^1.0.0
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/camera.png
+    - assets/profilepic.png
+    - assets/notepad.png
+    - assets/stopW.png
+    - assets/torch.png
+    - assets/settings.png
+    - assets/faceFilter.png
+    - assets/WP.png
+    - assets/calculator.png
+    - assets/ocr.png
+    - assets/bot.png
+    - assets/dialog_flow_auth.json
+    - assets/BGI.png
+    - assets/Logo.png
